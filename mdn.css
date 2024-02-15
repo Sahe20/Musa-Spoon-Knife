@@ -1,0 +1,7 @@
+p {
+    margin: 50px;
+    background-image: repeating-linear-gradient(to top,
+    lightskyblue 0 2px,
+    transparent 10px 1lh
+    );
+}
